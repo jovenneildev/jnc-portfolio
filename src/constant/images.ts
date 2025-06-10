@@ -1,5 +1,5 @@
 const imagePaths = {
-    jncLogo: "src/assets/jnc.png"
+    jncLogo: "assets/images/jnc.png"
 }
 
 export { imagePaths }

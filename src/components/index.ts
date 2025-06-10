@@ -1,2 +1,2 @@
 
-export { default as Profile } from "./profile/main";
+export { default as Profile } from "./profile/Profile";
